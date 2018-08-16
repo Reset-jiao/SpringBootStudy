@@ -1,2 +1,2 @@
 # SpringBootStudy
-Spring Boot Hello springbiit!
+Spring Boot Hello
